@@ -1,0 +1,8 @@
+﻿1.1.0.0 - 08 Feb 2022 - replaced use of dynamic with use of object ... huge (> 100%) performance boost!
+                      - removed validation that all items are of the same type when added ... c 30% performance boost
+                      - removed ListObject.SortSimple() and the ISortableSimple interface
+                      - renamed ListObject.SortFull() to ListObject.Sort() and renamed the ISortableFull interface to ISortable
+                      - ListObject.Sort() now takes multiple optional 'ascending' and 'ignoreCase' parameters
+                      - the ListObject.SortByMethod() and .SortByProperty() ... changed the default for the ignoreCase parameter from true 
+                        to false (to match the default for this same parameter for all other methods)
+1.0.0.0 - 07 Feb 2022 - Initial release

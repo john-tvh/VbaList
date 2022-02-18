@@ -24,13 +24,13 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. Windows 10]
- - VBA host (eg Microsoft Excel)
- - VBA host version (eg 2019, 365)
- - VBA host bitness if known (eg 32 bit, 64 bit)
- - .NET Framework version if known (eg 4.6)
- - VbaList version (eg 1.0.0.0)
+**Please complete the following information:**
+ - OS: (e.g. Windows 10)
+ - VBA host: (e.g. Microsoft Excel)
+ - VBA host version: (e.g. 2019, 365)
+ - VBA host bitness if known: (e.g. 32 bit, 64 bit)
+ - .NET Framework version if known: (e.g. 4.6)
+ - VbaList version: (e.g. 1.0.0.0)
 
 **Additional context**
 Add any other context about the problem here.

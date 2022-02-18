@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve VbaList
 title: ''
-labels: 'bug'
+labels: bug
 assignees: ''
 
 ---
